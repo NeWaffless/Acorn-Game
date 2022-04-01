@@ -11,7 +11,7 @@ To play the game, use the 'wasd' keys to move, 'e' to wait, and 'q' to quit. Mak
 There are some game boards within the 'boards' folder. More can be created as you like using the following symbols:
 - X = start (exactly 1 required)
 - Y = finish (exactly 1 required)
-- * = wall
+- \* = wall
 - ' ' = empty space
 - W = water
 - F = fire
