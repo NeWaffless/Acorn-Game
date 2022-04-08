@@ -85,9 +85,9 @@ if __name__ == "__main__":
 	board = sys.argv[1]
 	solution_found = False
 	if len(sys.argv) < 2:
-		print("Usage: python3 solver.py <filename><mode>")
+		print("Usage: python3 solver.py <filename> <mode>")
 		sys.exit()
-	mode = sys.argv[2]
+	mode = sys.argv[2].upper()
 	solution = solve(mode, board)
 
 	if solution != False:
