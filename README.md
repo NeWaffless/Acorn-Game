@@ -1,5 +1,7 @@
-# Acorn Game | [Portfolio link](https://newaffless.github.io/pages/acorn-game.html)
+# Acorn Game
 ![ag-card](https://user-images.githubusercontent.com/75866732/164215388-86a2fdc0-ab30-4af4-af32-5efa3c587f0e.png)
+
+
 This game is a simple command line text game programmed in python for a university assessment. The goal of the game is to get the acorn (A char) to the finish (Y char), by guiding them through a maze of walls, fire and teleporters. The game takes in user input in the form of entered key inputs, and outputs the board state. The game requires python to run, and is played entirely within the command line.
 
 ![Acorn game example](https://user-images.githubusercontent.com/75866732/161225599-537c10ef-e1c8-4ecf-9bf9-14527e0f32ba.JPG)
@@ -30,6 +32,10 @@ To use the solver, enter one of the following command into your command line for
 BFS - ```python solver.py boards/[ENTER BOARD HERE] bfs```
 
 DFS - ```python solver.py boards/[ENTER BOARD HERE] dfs```
+
+
+## More information
+See more of the project [here](https://newaffless.github.io/pages/acorn-game.html).
 
 
 ## Contributors
