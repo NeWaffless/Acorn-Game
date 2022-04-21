@@ -1,5 +1,5 @@
 # Acorn Game
-![ag-card](https://user-images.githubusercontent.com/75866732/164215388-86a2fdc0-ab30-4af4-af32-5efa3c587f0e.png)
+![acorn-game-logo-light](https://user-images.githubusercontent.com/75866732/164368949-90b81a69-268a-4139-85c6-c973ed355556.png)
 
 
 This game is a simple command line text game programmed in python for a university assessment. The goal of the game is to get the acorn (A char) to the finish (Y char), by guiding them through a maze of walls, fire and teleporters. The game takes in user input in the form of entered key inputs, and outputs the board state. The game requires python to run, and is played entirely within the command line.
